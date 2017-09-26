@@ -1,0 +1,390 @@
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ED SHEERAN[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_97+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]JUSTIN BIEBER[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_98+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT CHILL OUT[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_99+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LUIS MIGUE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_100+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LISTA LOS 40 PRINCIPALES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_101+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+		
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE BEATLES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_102+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE KILLERS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_103+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE DOORS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_104+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE CHAINSMOKERS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_105+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE POLICE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_106+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE CRANBERRIES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_107+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE SMITHS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_108+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE CORRS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_109+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+		
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE BLACK EYED PEAS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_110+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE ROLLING STONES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_111+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]QUEEN[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_112+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]BOB MARLEY[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_113+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]BEYONCÉ[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_114+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DADDY YANKEE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_70+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]BON JOVI[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_115+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]BRUNO MARS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_116+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]BOD DYLAN[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_117+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+		
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ADELE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_118+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ARIANA GRANDE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_119+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]AVENTURA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_120+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]AEROSMITH[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_121+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]AC-DC[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_122+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ALEJANDRO FERNÁNDEZ[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_123+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]RICARDO ARJONA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_124+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]COLDPLAY[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_125+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+		
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DON OMAR[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_126+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LOS 90 NEXT MUSIC[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_83+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DAVID GUETTA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_127+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DAFT PUNK[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_128+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DRAKE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_129+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ELVIS PRESLEY[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_130+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]R.E.M[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_131+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]EMINEM[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_132+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+		
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]GUNS N ROSES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_133+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]GREEN DAY[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_134+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]GLORIA TREVI[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_135+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MAROON 5[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_136+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]METALLICA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_137+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NIRVANA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_138+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold] NEXT LO MEJOR DEL ROCK[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_139+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]PINK FLOYD[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_140+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]U2[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_141+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold] TAYLOR SWIFT[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_142+"/",
+        thumbnail="",
+		fanart="",
+        folder=True )
