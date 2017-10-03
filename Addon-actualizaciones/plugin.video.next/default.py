@@ -74,7 +74,7 @@ YOUTUBE_CHANNEL_ID_52 = "PLMKA1irNvQ9JX-BMtK7wRKshg7R04haGO" 	#51 CHART MAXIMA F
 YOUTUBE_CHANNEL_ID_53 = "PLTg70_BqgFusp1FzXheTTHUCv68MW4ZYh" 	#INDIA MARTINEZ
 YOUTUBE_CHANNEL_ID_54 = "PLWBHUwiEdo5eMW7dFc0HnDsn-97HD4NMt" 	#MARIA ARTES
 YOUTUBE_CHANNEL_ID_55 = "PLC833837DB7F34B1C" 	#NIÑA PASTORI
-YOUTUBE_CHANNEL_ID_56 = "PLMKA1irNvQ9JB098bvTpxhTTsQMXc4Sb-&disable_polymer=true" 	#40 PPRICIPALES LISTA
+YOUTUBE_CHANNEL_ID_56 = "PLTtT3vD5-GEwZ0KEdzkn8ExjZBy_V9XOb" 	#IL DIVO
 YOUTUBE_CHANNEL_ID_57 = "PLC9AEA85693A20A70" 	#JUAN LUIS GUERRA
 YOUTUBE_CHANNEL_ID_58 = "PLSL9DB9AUS4OrZ_N7izVrudQLS-SHtcIS" 	#JARABE DE PALO
 YOUTUBE_CHANNEL_ID_59 = "PL96A1E611FB808DFC" 	#CANELITA
@@ -683,7 +683,7 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]LISTA LOS 40 PRINCIPALES[/COLOR]",
+        title="[COLOR gold]IL DIVO[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_56+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/Los40PrincipalesThumbnail.jpg?raw=true",
 		fanart="",
