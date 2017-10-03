@@ -1796,7 +1796,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]VEVO UK[/COLOR]",
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2000+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VevoThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1804,7 +1804,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]VEVO DSCVR[/COLOR]",
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2001+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VevoThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1812,7 +1812,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]VEVO ITALY[/COLOR]",
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2002+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VevoThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1820,7 +1820,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]VEVO SPAIN[/COLOR]",
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2003+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VevoThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1828,7 +1828,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]VEVO NETHERLAND[/COLOR]",
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2004+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VevoThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1836,7 +1836,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]VEVO POLSKA[/COLOR]",
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2005+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VevoThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1844,7 +1844,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]VEVO fRANCE[/COLOR]",
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2006+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VevoThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1852,7 +1852,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]HEXAGON[/COLOR]",
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2007+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/HexagonThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1860,7 +1860,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]TOMORROWLAND[/COLOR]",
         url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4000+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TomorrowlandThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1868,7 +1868,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]DON DIABLO[/COLOR]",
         url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4001+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DonDiabloThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1876,14 +1876,14 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]FESTIVAL VINA DEL MAR CHILE[/COLOR]",
         url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4002+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VinaDelMarThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
         title="[COLOR gold]TEMA DE LA SEMANA[/COLOR]",
-        url="plugin://plugin.video.youtube/plylist/"+YOUTUBE_CHANNEL_ID_190+"/",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_190+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
