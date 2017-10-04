@@ -239,134 +239,259 @@ def run():
 def main_list(params):
     plugintools.log("docu.main_list "+repr(params))
 
-
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]2017[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_2+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/2017Thumbnail.jpg?raw=true",
+        title="[COLOR gold]TEMITA DE LA SEMANA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_190+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]REGGAETON[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_1+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ReggaettonThumbnail.jpg?raw=true",
+        title="[COLOR gold]LOS 40 PRINCIPALES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_101+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/Los40PrincipalesThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
-    
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]51 CHART MAXIMA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_52+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ChartMaximaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]HOUSE 2017[/COLOR]",
+        title="[COLOR gold]NEXT MUSIC CHILL OUT[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_99+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC CINE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_151+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC CLASICOS DE AYER Y DE HOY[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_189+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC HD[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_188+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC HOUSE[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_3+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/House2017Thumbnail.jpg?raw=true",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]EL ULTIMO DE LA FILA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_4+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ElUltimoDeLaFilaThumbnail.jpg?raw=true",
+        title="[COLOR gold]NEXT MUSIC LO MEJOR DEL ROCK[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_139+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]HOMBRES G[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_5+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/HombresGThumbnail.jpg?raw=true",
+        title="[COLOR gold]NEXT MUSIC REGGAETON[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_1+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]DANI MARTIN[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_6+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DaniMartinThumbnail.jpg?raw=true",
+        title="[COLOR gold]NEXT MUSIC 30s-40s-50s[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_84+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]DAVID BISBAL[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_7+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DavidBisvalThumbnail.jpg?raw=true",
+        title="[COLOR gold]NEXT MUSIC 60s[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_85+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]CAMARÓN DE LA ISLA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_8+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/CamaronDeLaIslaThumbnail.jpg?raw=true",
+        title="[COLOR gold]NEXT MUSIC 70s[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_82+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]CELTAS CORTOS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_9+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/CeltasCortosThumbnail.jpg?raw=true",
+        title="[COLOR gold]NEXT MUSIC 70s VOL 2[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_86+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]FLAMENCO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_10+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/FlamencoThumbnail.jpg?raw=true",
+        title="[COLOR gold]NEXT MUSIC 80s[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_81+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]ESTOPA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_11+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/EstopaThumbnail.jpg?raw=true",
+        title="[COLOR gold]NEXT MUSIC 80s VOL2[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_87+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]JOAQUIN SABINA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_12+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JoaquinSabinaThumbnail.jpg?raw=true",
+        title="[COLOR gold]NEXT MUSIC 90s[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_83+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]EL SUEÑO DE MORFEO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_13+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ElSuenoDeMorfeoThumbnail.jpg?raw=true",
+        title="[COLOR gold]NEXT MUSIC 90sC VOL 2[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_88+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]ENRIQUE IGLESIAS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_14+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/EnriqueIglesiasThumbnail.jpg?raw=true",
+        title="[COLOR gold]NEXT MUSIC 2000-2003[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_89+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]RAPHAEL[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_15+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RaphaelThumbnail.jpg?raw=true",
+        title="[COLOR gold]NEXT MUSIC 2004-2007[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_90+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]DAVID BUSTAMANTE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_16+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DavidBustamanteThumbnail.jpg?raw=true",
+        title="[COLOR gold]NEXT MUSIC 2007-2009[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_91+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC 2010[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_92+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC 2011[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_93+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC 2012[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_94+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC 2013[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_95+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC 2014[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_96+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC 2017[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_2+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ABBA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_171+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AbbaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]AC-DC[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_122+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ACDCThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ADELE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_118+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AdeleThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]AEROSMITH[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_121+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AerosmithThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ALEJANDRO FERNÁNDEZ[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_123+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AlejandroFernandezThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -380,121 +505,9 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]MANOLO GARCIA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_18+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ManoloGarciaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]ANTONIO OROZCO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_19+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AntonioOrozcoThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]ROSARIO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_20+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RosarioThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MANUEL CARRASCO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_21+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ManuelCarrascoThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]FITO & FITIPALDIS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_22+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/FitoYFitipaldisThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MALÚ[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_23+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MaluThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]EL BARRIO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_24+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ElBarrioThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MAÍTA VENDE CÁ[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_25+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MaitaVendeCaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MECANO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_26+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MecanoThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NAVAJITA PLATEADA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_27+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NavajitaPlateadaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]DIANA NAVARRO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_28+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DianaNavarroThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]HUECO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_29+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/HuecoThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MIGUEL BOSÉ[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_30+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MiguelBoseThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]OBK[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_31+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ObkThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]PABLO ALBORÁN[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_32+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PabloAlboranThumbnail.jpg?raw=true",
+        title="[COLOR gold]AMY WINEHOUSE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_143+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AmyWinehouseThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -508,254 +521,123 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]LOS DEL RÍO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_34+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LosDelRioThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]JOAN MANUEL SERRAT[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_35+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JoanManuelSerratThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]SERGIO DALMA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_36+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SergioDalmaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]HÉROES DEL SILENCIO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_37+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/HeroesDelSilencioThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]RADIO FUTURA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_38+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RadioFuturaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]DUNCAN DHU[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_39+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DuncanDhuThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]M-CLAN[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_40+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MclanThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MAGO DE OZ[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_41+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MagoDeOzThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]EXTREMODURO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_42+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ExtremoduroThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LOQUILLO Y LOS TROGLODITAS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_43+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LoquilloYLosTrogloditasThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NACHA POP[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_44+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NachaPopThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LOS SECRETOS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_45+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LosSecretosThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]TRIANA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_46+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TrianaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LOS SUAVES[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_47+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LosSuavesThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]CHAMBAO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_48+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ChambaoThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]JULIO IGLESIAS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_49+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JulioIglesiasThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LA OREJA DE VAN GOGH[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_50+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LaOrejaDeVanGoghThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]DAVID DE MARIA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_51+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DavidDeMariaThumbnail.jpg?raw=true",
-        fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]51 CHART MAXIMA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_52+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ChartMaximaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]INDIA MARTINEZ[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_53+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/IndiaMartinezThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MARIA ARTES[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_54+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MariaArtesThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NIÑA PASTORI[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_55+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NinaPastoriThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]IL DIVO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_56+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/IlDivoThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]JUAN LUIS GUERRA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_57+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JuanLuisGuerraThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]JARABE DE PALO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_58+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JarabeDePaloThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]CANELITA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_59+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/CanelitaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
         title="[COLOR gold]ANTONIO JOSE[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_60+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AntonioJoseThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
-
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]PASTORA SOLER[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_61+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PastoraSolerThumbnail.jpg?raw=true",
+        title="[COLOR gold]ANTONIO OROZCO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_19+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AntonioOrozcoThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]HAZE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_62+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/HazeThumbnail.jpg?raw=true",
+        title="[COLOR gold]ARIANA GRANDE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_119+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ArianaGrandeThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]LOS REBUJITOS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_63+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LosRebujitosThumbnail.jpg?raw=true",
+        title="[COLOR gold]AVENTURA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_120+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AventuraThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]SERGIO CONTRERAS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_64+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SergioContrerasThumbnail.jpg?raw=true",
+        title="[COLOR gold]AZUCAR MORENO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_156+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AzucarMorenoThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
-		
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]BACKSTREET BOYS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_181+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BackstreetBoysThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]BEE GEES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_172+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BeeGeesThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]BOB DYLAN[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_117+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BobDylanThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]BOB MARLEY[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_113+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BobMarleyThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]BON JOVI[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_115+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BonJoviThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]BEYONCÉ[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_114+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BeyonceThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]BLINK 182[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_184+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/Blink182Thumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]BRUNO MARS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_116+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BrunoMarsThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]CALLE 13[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_78+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/Calle13Thumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]CAMARÓN DE LA ISLA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_8+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/CamaronDeLaIslaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
 
     plugintools.add_item( 
         #action="", 
@@ -767,68 +649,19 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]JOSE MERCÉ[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_66+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JoseMerceThumbnail.jpg?raw=true",
+        title="[COLOR gold]CAMILA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_77+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/CamilaThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]EL BICHO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_67+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ElBichoThumbnail.jpg?raw=true",
+        title="[COLOR gold]CANELITA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_59+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/CanelitaThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]JUANES[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_68+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JuanesThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]SHAKIRA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_69+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ShakiraThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]DADDY YANKEE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_70+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DaddyYankeeThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MARC ANTHONY[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_71+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MarcAnthonyThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]CHAYANNE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_72+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ChayanneThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]GLORIA STEFAN[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_73+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/GloriaEstefanThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
 
     plugintools.add_item( 
         #action="", 
@@ -856,915 +689,25 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]CAMILA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_77+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/CamilaThumbnail.jpg?raw=true",
+        title="[COLOR gold]CELTAS CORTOS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_9+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/CeltasCortosThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]CALLE 13[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_78+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/Calle13Thumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]J BALVIN[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_79+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JBalvinThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MALUMA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_80+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MalumaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LOS 80 NEXT MUSIC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_81+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LOS 70 NEXT MUSIC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_82+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LOS 90 NEXT MUSIC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_83+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]30-40-50 NEXT MUSIC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_84+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LOS 60 NEXT MUSIC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_85+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LOS 70 NEXT MUSIC VOL 2[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_86+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LOS 80 NEXT MUSIC VOL2[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_87+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LOS 90 NEXT MUSIC VOL2[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_88+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]2000-2003 NEXT MUSIC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_89+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]2004-2007 NEXT MUSIC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_90+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]2007-2009 NEXT MUSIC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_91+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]2010 NEXT MUSIC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_92+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]2011 NEXT MUSIC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_93+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]2012 NEXT MUSIC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_94+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]2013 NEXT MUSIC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_95+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]2014 NEXT MUSIC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_96+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]ED SHEERAN[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_97+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/EdSheeranThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]JUSTIN BIEBER[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_98+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JustinBieberThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT CHILL OUT[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_99+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LUIS MIGUE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_100+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LuisMiguelThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LISTA LOS 40 PRINCIPALES[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_101+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/Los40PrincipalesThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]THE BEATLES[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_102+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheBeatlesThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]THE KILLERS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_103+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheKillersThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]THE DOORS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_104+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheDoorsThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]THE CHAINSMOKERS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_105+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheChainsmokersThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]THE POLICE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_106+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ThePoliceThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]THE CRANBERRIES[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_107+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheCranberriesThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]THE SMITHS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_108+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheSmithsThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]THE CORRS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_109+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheCorrsThumbnails.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]THE BLACK EYED PEAS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_110+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BlackEyedPeasThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]THE ROLLING STONES[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_111+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheRollingStonesThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]QUEEN[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_112+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/QueenThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]BOB MARLEY[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_113+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BobMarleyThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]BEYONCÉ[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_114+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BeyonceThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]DADDY YANKEE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_70+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DaddyYankeeThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]BON JOVI[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_115+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BonJoviThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]BRUNO MARS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_116+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BrunoMarsThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]BOB DYLAN[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_117+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BobDylanThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]ADELE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_118+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AdeleThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]ARIANA GRANDE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_119+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ArianaGrandeThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]AVENTURA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_120+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AventuraThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]AEROSMITH[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_121+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AerosmithThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]AC-DC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_122+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ACDCThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]ALEJANDRO FERNÁNDEZ[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_123+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AlejandroFernandezThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]RICARDO ARJONA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_124+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RicardoArjonaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]COLDPLAY[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_125+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ColdPlayThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]DON OMAR[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_126+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DonOmarThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LOS 90 NEXT MUSIC[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_83+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]DAVID GUETTA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_127+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DavidGuettaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]DAFT PUNK[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_128+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DaftPunkThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]DRAKE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_129+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DrakeThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]ELVIS PRESLEY[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_130+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ElvisPresleyThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]R.E.M[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_131+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RemThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]EMINEM[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_132+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/EminemThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]GUNS N ROSES[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_133+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/GunsNRosesThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]GREEN DAY[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_134+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/GreenDayThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]GLORIA TREVI[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_135+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/GloriaTreviThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MAROON 5[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_136+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/Marron5Thumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]METALLICA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_137+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MetallicaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NIRVANA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_138+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NirvanaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold] NEXT LO MEJOR DEL ROCK[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_139+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]PINK FLOYD[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_140+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PinkFloydThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]U2[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_141+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/U2Thumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]TAYLOR SWIFT[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_142+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TaylorSwiftThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]AMY WINEHOUSE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_143+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AmyWinehouseThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]PHIL COLLINS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_144+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PhilCollinsThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]ROD STEWART[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_145+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RodStewartThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LIONEL RICHIE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_146+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LionelRichieThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]PETER CETERA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_147+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PeterCeteraThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]PETER GRABIEL[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_148+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PeterGabrielThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]GUSTAVO CERATI[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_149+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/GustavoCeratiThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]SODA STEREO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_150+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SodaStereoThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC CINE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_151+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]TOM JONES[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_152+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TomJonesThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]ELTON JOHN[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_153+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/EltonJohnThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]PINK[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_154+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PinkThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MICHAEL JACKSON[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_155+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MichaelJacksonThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]AZUCAR MORENO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_156+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AzucarMorenoThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]PERET[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_157+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PeretThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]SEGURIDAD SOCIAL[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_158+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SeguridadSocialThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NO ME PISES QUE LLEVO CHANCLAS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_159+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NoMePisesQueLlevoChanclasThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LOS INHUMANOS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_160+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LosInhumanosThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]KISS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_161+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/KissThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]KIKO VENENO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_162+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/KikoVenenoThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]ELVIS CRESPO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_163+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ElvisCrespoThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]KATY PERRY[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_164+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/KatyPerryThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LUIS FONSI[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_165+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LuisFonsiThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MADONNA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_166+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MadonnaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]TINA TURNER[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_167+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TinaTurnerThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MARIAH CAREY[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_168+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MariahCareyThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]ROXETTE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_169+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RoxetteThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]DEPECHE MODE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_170+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DepecheModeThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]ABBA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_171+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/AbbaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]BEE GEES[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_172+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BeeGeesThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]ONE DIRECTION[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_173+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/OneDirectionThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LINKIN PARK[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_174+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LinkinParkThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]STING[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_175+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/StingThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]RED HOT CHILI PEPPERS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_176+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RedHotChiliPeppersThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]LA QUINTA ESTACION[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_177+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LaQuintaEstacionThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]THE PRODIGY[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_178+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheProdigyThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]THE CHERMICAL BROTHERS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_179+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheChimicalBrothersThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]TATU[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_180+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TatuThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]BACKSTREET BOYS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_181+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BackstreetBoysThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]SPICE GIRL[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_182+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SpiceGirlThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]RAMONES[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_183+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RamonesThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]BLINK 182[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_184+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/Blink182Thumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]LED ZEPPELIN[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_185+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LedZeppelinThumbnail.jpg?raw=true",
+        title="[COLOR gold]CHAMBAO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_48+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ChambaoThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]OASIS[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_186+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/OasisThumbnail.jpg?raw=true",
+        title="[COLOR gold]CHAYANNE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_72+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ChayanneThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1778,17 +721,1065 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]NEXT MUSIC HD[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_188+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+        title="[COLOR gold]COLDPLAY[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_125+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ColdPlayThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]NEXT CLASICOS DE AYER Y DE HOY[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_189+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+        title="[COLOR gold]DADDY YANKEE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_70+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DaddyYankeeThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DAFT PUNK[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_128+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DaftPunkThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DANI MARTIN[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_6+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DaniMartinThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DAVID BISBAL[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_7+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DavidBisvalThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DAVID BUSTAMANTE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_16+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DavidBustamanteThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DAVID DE MARIA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_51+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DavidDeMariaThumbnail.jpg?raw=true",
+        fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DAVID GUETTA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_127+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DavidGuettaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DEPECHE MODE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_170+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DepecheModeThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DIANA NAVARRO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_28+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DianaNavarroThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DON DIABLO[/COLOR]",
+        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4001+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DonDiabloThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DON DIABLO HEXAGON[/COLOR]",
+        url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2007+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/HexagonThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DON OMAR[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_126+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DonOmarThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DRAKE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_129+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DrakeThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DUNCAN DHU[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_39+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DuncanDhuThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ED SHEERAN[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_97+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/EdSheeranThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]EL BARRIO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_24+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ElBarrioThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]EL BICHO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_67+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ElBichoThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]EL SUEÑO DE MORFEO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_13+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ElSuenoDeMorfeoThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]EL ULTIMO DE LA FILA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_4+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ElUltimoDeLaFilaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ELTON JOHN[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_153+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/EltonJohnThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ELVIS CRESPO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_163+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ElvisCrespoThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ELVIS PRESLEY[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_130+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ElvisPresleyThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]EMINEM[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_132+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/EminemThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ENRIQUE IGLESIAS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_14+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/EnriqueIglesiasThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ESTOPA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_11+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/EstopaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]EXTREMODURO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_42+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ExtremoduroThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]FITO & FITIPALDIS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_22+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/FitoYFitipaldisThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]FLAMENCO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_10+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/FlamencoThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]GLORIA STEFAN[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_73+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/GloriaEstefanThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]GLORIA TREVI[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_135+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/GloriaTreviThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]GREEN DAY[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_134+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/GreenDayThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]GUNS N ROSES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_133+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/GunsNRosesThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]GUSTAVO CERATI[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_149+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/GustavoCeratiThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]HAZE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_62+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/HazeThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]HÉROES DEL SILENCIO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_37+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/HeroesDelSilencioThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]HOMBRES G[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_5+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/HombresGThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]HUECO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_29+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/HuecoThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]IL DIVO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_56+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/IlDivoThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]INDIA MARTINEZ[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_53+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/IndiaMartinezThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]JARABE DE PALO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_58+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JarabeDePaloThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]J BALVIN[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_79+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JBalvinThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]JOAN MANUEL SERRAT[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_35+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JoanManuelSerratThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]JOAQUIN SABINA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_12+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JoaquinSabinaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]JOSE MERCÉ[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_66+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JoseMerceThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]JUAN LUIS GUERRA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_57+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JuanLuisGuerraThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]JUANES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_68+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JuanesThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]JULIO IGLESIAS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_49+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JulioIglesiasThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]JUSTIN BIEBER[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_98+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JustinBieberThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]KATY PERRY[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_164+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/KatyPerryThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]KIKO VENENO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_162+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/KikoVenenoThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]KISS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_161+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/KissThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LA OREJA DE VAN GOGH[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_50+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LaOrejaDeVanGoghThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LA QUINTA ESTACION[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_177+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LaQuintaEstacionThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LED ZEPPELIN[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_185+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LedZeppelinThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LINKIN PARK[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_174+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LinkinParkThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LIONEL RICHIE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_146+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LionelRichieThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LOQUILLO Y LOS TROGLODITAS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_43+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LoquilloYLosTrogloditasThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LOS DEL RÍO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_34+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LosDelRioThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LOS INHUMANOS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_160+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LosInhumanosThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LOS REBUJITOS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_63+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LosRebujitosThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LOS SECRETOS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_45+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LosSecretosThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LOS SUAVES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_47+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LosSuavesThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LUIS FONSI[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_165+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LuisFonsiThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]LUIS MIGUEL[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_100+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/LuisMiguelThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]M-CLAN[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_40+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MclanThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MADONNA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_166+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MadonnaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MAGO DE OZ[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_41+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MagoDeOzThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MAÍTA VENDE CÁ[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_25+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MaitaVendeCaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MALÚ[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_23+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MaluThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MALUMA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_80+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MalumaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MANOLO GARCIA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_18+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ManoloGarciaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MANUEL CARRASCO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_21+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ManuelCarrascoThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MARC ANTHONY[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_71+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MarcAnthonyThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MARIA ARTES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_54+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MariaArtesThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MARIAH CAREY[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_168+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MariahCareyThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MAROON 5[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_136+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/Marron5Thumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MECANO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_26+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MecanoThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]METALLICA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_137+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MetallicaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MICHAEL JACKSON[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_155+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MichaelJacksonThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MIGUEL BOSÉ[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_30+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MiguelBoseThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NACHA POP[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_44+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NachaPopThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NAVAJITA PLATEADA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_27+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NavajitaPlateadaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NIÑA PASTORI[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_55+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NinaPastoriThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NIRVANA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_138+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NirvanaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NO ME PISES QUE LLEVO CHANCLAS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_159+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NoMePisesQueLlevoChanclasThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]OASIS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_186+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/OasisThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]OBK[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_31+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ObkThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ONE DIRECTION[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_173+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/OneDirectionThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]PABLO ALBORÁN[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_32+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PabloAlboranThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]PASTORA SOLER[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_61+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PastoraSolerThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]PERET[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_157+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PeretThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]PETER CETERA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_147+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PeterCeteraThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]PETER GRABIEL[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_148+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PeterGabrielThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]PHIL COLLINS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_144+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PhilCollinsThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]PINK[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_154+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PinkThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]PINK FLOYD[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_140+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/PinkFloydThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]QUEEN[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_112+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/QueenThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]RADIO FUTURA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_38+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RadioFuturaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]RAMONES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_183+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RamonesThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]RAPHAEL[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_15+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RaphaelThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]RED HOT CHILI PEPPERS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_176+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RedHotChiliPeppersThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]R.E.M[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_131+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RemThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]RICARDO ARJONA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_124+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RicardoArjonaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ROD STEWART[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_145+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RodStewartThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ROSARIO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_20+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RosarioThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]ROXETTE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_169+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/RoxetteThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]SEGURIDAD SOCIAL[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_158+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SeguridadSocialThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]SERGIO CONTRERAS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_64+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SergioContrerasThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]SERGIO DALMA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_36+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SergioDalmaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]SODA STEREO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_150+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SodaStereoThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]SPICE GIRL[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_182+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SpiceGirlThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]STING[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_175+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/StingThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]SHAKIRA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_69+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ShakiraThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]TATU[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_180+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TatuThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]TAYLOR SWIFT[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_142+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TaylorSwiftThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE BEATLES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_102+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheBeatlesThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE BLACK EYED PEAS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_110+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BlackEyedPeasThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE CHAINSMOKERS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_105+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheChainsmokersThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE CHERMICAL BROTHERS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_179+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheChimicalBrothersThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE CORRS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_109+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheCorrsThumbnails.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE CRANBERRIES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_107+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheCranberriesThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE DOORS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_104+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheDoorsThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE KILLERS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_103+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheKillersThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE POLICE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_106+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ThePoliceThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE PRODIGY[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_178+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheProdigyThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE ROLLING STONES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_111+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheRollingStonesThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]THE SMITHS[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_108+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TheSmithsThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]TINA TURNER[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_167+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TinaTurnerThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]TOM JONES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_152+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TomJonesThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]TRIANA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_46+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TrianaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]U2[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_141+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/U2Thumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]FESTIVAL VINA DEL MAR CHILE[/COLOR]",
+        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4002+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VinaDelMarThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1850,41 +1841,9 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]HEXAGON[/COLOR]",
-        url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2007+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/HexagonThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
         title="[COLOR gold]TOMORROWLAND[/COLOR]",
         url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4000+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/TomorrowlandThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]DON DIABLO[/COLOR]",
-        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4001+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DonDiabloThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]FESTIVAL VINA DEL MAR CHILE[/COLOR]",
-        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4002+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VinaDelMarThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]TEMA DE LA SEMANA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_190+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 run()
