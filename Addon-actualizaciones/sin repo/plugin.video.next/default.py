@@ -330,6 +330,38 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
+        title="[COLOR gold]NEXT MUSIC LO MAS NUEVO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_202+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC LO NUEVO DE LA SEMANA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_201+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC EN LA CIMA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_222+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC RECIEN EDITADA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_228+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
         title="[COLOR gold]LOS 40 PRINCIPALES[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_101+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/Los40PrincipalesThumbnail.jpg?raw=true",
@@ -341,6 +373,22 @@ def main_list(params):
         title="[COLOR gold]51 CHART MAXIMA[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_52+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ChartMaximaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC ASIA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_218+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC BILLBOARD 2015[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_229+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -362,8 +410,112 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
+        title="[COLOR gold]NEXT MUSIC CLASICA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_227+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
         title="[COLOR gold]NEXT MUSIC CLASICOS DE AYER Y DE HOY[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_189+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC COUNTRY[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_214+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC COUNTRY INDICE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_215+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC COUNTRY LO MEJOR[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_237+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC COUNTRY MIX[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_236+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC COUNTRY 80S[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_240+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC COUNTRY 90S[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_239+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC COUNTRY 2000 - 2014[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_238+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC COUNTRY 2016[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_235+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC CRISTIANA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_224+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC ELECTRONICA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_203+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC ELECTRONICA INDICE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_206+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC HARD ROCK[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_225+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
@@ -378,8 +530,64 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
+        title="[COLOR gold]NEXT MUSIC HEAVY METAL[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_226+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC HIP HOP[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_210+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC HIP HOP INDICE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_208+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
         title="[COLOR gold]NEXT MUSIC HOUSE[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_3+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC HOUSE VOL. 2[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_207+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC HOUSE VOL. 2[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_204+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC INDIE INDICE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_221+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC LATINO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_205+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
@@ -394,8 +602,96 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
+        title="[COLOR gold]NEXT MUSIC MEXICO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_219+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC POP[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_209+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC POP ROCK[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_216+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC MUSICA POPULAR[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_230+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC R&B[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_217+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC RHYTHM & BLUES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_223+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC REGGAE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_212+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
         title="[COLOR gold]NEXT MUSIC REGGAETON[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_1+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC ROCK 80S 90S[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_231+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC ROCK ALTERNATIVO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_211+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC SOUL[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_220+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC TRAP[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_213+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
@@ -410,6 +706,14 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
+        title="[COLOR gold]NEXT MUSIC 50S[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_234+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
         title="[COLOR gold]NEXT MUSIC 60s[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_85+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
@@ -418,8 +722,24 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
+        title="[COLOR gold]NEXT MUSIC 60S VOL. 2[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_233+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
         title="[COLOR gold]NEXT MUSIC 70s[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_82+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC 70S VOL. 2[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_232+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
@@ -532,6 +852,86 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]NEXT MUSIC 2017[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_2+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC MIX POP LATINO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_199+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC TOP 40 CHARTS[/COLOR]",
+        url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2010+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT MUSIC VIDEOS POPULARES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_200+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT ON: BANDA SONORA DE LA SEMANA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_244+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT ON: DANCE OFF[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_246+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT ON: DESCUBRIMIRENTO EN EL MUNDO[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_245+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT ON: LEONARD COHEN[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_241+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT ON: RECAPITULANDO OCTUBRE[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_243+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT ON: SUBRREAL E IRREAL[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_247+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]NEXT ON: VISUALLY STUNNING[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_242+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
@@ -677,6 +1077,14 @@ def main_list(params):
         title="[COLOR gold]BON JOVI[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_115+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BonJoviThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]BECKY G[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_37+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BeckyGThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -882,6 +1290,14 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
+        title="[COLOR gold]DIEGO TORRES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_248+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DiegoTorresThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
         title="[COLOR gold]DON DIABLO[/COLOR]",
         url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4001+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DonDiabloThumbnail.jpg?raw=true",
@@ -1018,6 +1434,14 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
+        title="[COLOR gold]FAITHLESS[/COLOR]",
+        url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2008+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/FaithlessThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
         title="[COLOR gold]FITO & FITIPALDIS[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_22+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/FitoYFitipaldisThumbnail.jpg?raw=true",
@@ -1133,6 +1557,14 @@ def main_list(params):
         title="[COLOR gold]J BALVIN[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_79+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JBalvinThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]JESSE Y JOY[/COLOR]",
+        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4005+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JesseYJoyThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1370,9 +1802,25 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
+        title="[COLOR gold]MANA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_192+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ManaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
         title="[COLOR gold]MANOLO GARCIA[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_18+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ManoloGarciaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MANOLO TENA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_193+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ManoloTenaThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1418,9 +1866,25 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
+        title="[COLOR gold]MARTIN GARRIX (+x)[/COLOR]",
+        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4003+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MartinGarrixThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
         title="[COLOR gold]MECANO[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_26+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MecanoThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]MELENDI[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_194+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MelendiThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1658,6 +2122,14 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
+        title="[COLOR gold]SALVATORE GANACCI[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_195+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SalvatoreGanacciThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
         title="[COLOR gold]SEGURIDAD SOCIAL[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_158+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SeguridadSocialThumbnail.jpg?raw=true",
@@ -1706,9 +2178,25 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
+        title="[COLOR gold]STMPD RCRDS[/COLOR]",
+        url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2009+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/StmpdRcrdsThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
         title="[COLOR gold]SHAKIRA[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_69+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ShakiraThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]SUPERSUBMARINA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_196+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SupersubmarinaThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1858,6 +2346,14 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
+        title="[COLOR gold]VETUSTA MORLA[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_197+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VetustaMorlaThumbnail.jpg?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
         title="[COLOR gold]FESTIVAL VINA DEL MAR CHILE[/COLOR]",
         url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4002+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VinaDelMarThumbnail.jpg?raw=true",
@@ -1914,7 +2410,7 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]VEVO fRANCE[/COLOR]",
+        title="[COLOR gold]VEVO FRANCE[/COLOR]",
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2006+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VevoThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
@@ -1930,506 +2426,9 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
-        title="[COLOR gold]MANA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_192+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ManaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MANOLO TENA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_193+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ManoloTenaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MARTIN GARRIX (+x)[/COLOR]",
-        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4003+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MartinGarrixThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]MELENDI[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_194+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MelendiThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]SALVATORE GANACCI[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_195+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SalvatoreGanacciThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]STMPD RCRDS[/COLOR]",
-        url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2009+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/StmpdRcrdsThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]SUPERSUBMARINA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_196+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SupersubmarinaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]VETUSTA MORLA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_197+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VetustaMorlaThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]BECKY G[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_37+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BeckyGThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]FAITHLESS[/COLOR]",
-        url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2008+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/FaithlessThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC TOP 40 CHARTS[/COLOR]",
-        url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2010+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC MIX POP LATINO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_199+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
         title="[COLOR gold]UMFTV[/COLOR]",
         url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4004+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/UmfTvThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]JESSE Y JOY[/COLOR]",
-        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4005+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JesseYJoyThumbnail.jpg?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-		
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC VIDEOS POPULARES[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_200+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC LO NUEVO DE LA SEMANA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_201+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC LO MAS NUEVO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_202+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC ELECTRONICA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_203+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC HOUSE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_204+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC LATINO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_205+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC ELECTRONICA INDICE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_206+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC HOUSE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_207+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC HIP HOP INDICE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_208+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC POP[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_209+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC HIP HOP[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_210+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC ROCK ALTERNATIVO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_211+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC REGGAE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_212+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC TRAP[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_213+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC COUNTRY[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_214+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC COUNTRY INDICE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_215+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC POP ROCK[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_216+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC R&B[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_217+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC ASIA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_218+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC MEXICO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_219+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC SOUL[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_220+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC INDIE INDICE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_221+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC EN LA CIMA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_222+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC RHYTHM & BLUES[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_223+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC CRISTIANA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_224+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC HARD ROCK[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_225+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC HEAVY METAL[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_226+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC CLASICA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_227+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC RECIEN EDITADA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_228+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC BILLBOARD 2015[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_229+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC MUSICA POPULAR[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_230+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC ROCK 80S 90S[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_231+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC 70S[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_232+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC 60S[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_233+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC 50S[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_234+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC COUNTRY 2016[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_235+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC COUNTRY MIX[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_236+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC COUNTRY LO MEJOR[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_237+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC COUNTRY 2000 - 2014[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_238+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC COUNTRY 90S[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_239+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT MUSIC COUNTRY 80S[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_240+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT ON: LEONARD COHEN[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_241+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT ON: VISUALLY STUNNING[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_242+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT ON: RECAPITULANDO OCTUBRE[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_243+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT ON: BANDA SONORA DE LA SEMANA[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_244+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT ON: DESCUBRIMIRENTO EN EL MUNDO[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_245+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT ON: DANCE OFF[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_246+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]NEXT ON: SUBRREAL E IRREAL[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_247+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
-		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
-        folder=True )
-
-    plugintools.add_item( 
-        #action="", 
-        title="[COLOR gold]DIEGO TORRES[/COLOR]",
-        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_248+"/",
-        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DiegoTorresThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 run()
