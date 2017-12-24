@@ -266,6 +266,7 @@ YOUTUBE_CHANNEL_ID_244 = "PLFgquLnL59akYTGd40gT26IYoL2kuhQZO" 	#NEXT ON: BANDA S
 YOUTUBE_CHANNEL_ID_245 = "PLFgquLnL59an78ZI25rXfkTnpkrLFVXJ8" 	#NEXT ON: DESCUBRIMIRENTO EN EL MUNDO 	Global Discoveries
 YOUTUBE_CHANNEL_ID_246 = "PLFgquLnL59am3gKxgT7Tvw-CMAlT4lQiC" 	#NEXT ON: DANCE OFF
 YOUTUBE_CHANNEL_ID_247 = "PLFgquLnL59akoZ1GetztyRuu1jtSwOvMi" 	#NEXT ON: SUBRREAL E IRREAL 	Surreal and Unreal
+YOUTUBE_CHANNEL_ID_248 = "RDEMQCvwpRTcFnGMj6R-ck__8w" 	#DIEGO TORRES
 YOUTUBE_CHANNEL_ID_2000 = "UCY14-R0pMrQzLne7lbTqRvA" 	#CHANNEL VEVO UK
 YOUTUBE_CHANNEL_ID_2001 = "UC-7BJPPk_oQGTED1XQA_DTw" 	#CHANNEL VEVO DSCVR
 YOUTUBE_CHANNEL_ID_2002 = "UC2TdeJmXTI34g5U13mxMsLA" 	#CHANNEL VEVO ITALY
@@ -2036,7 +2037,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]JESSE Y JOY[/COLOR]",
         url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4005+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/JesseYJoyThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 		
@@ -2421,6 +2422,14 @@ def main_list(params):
         title="[COLOR gold]NEXT ON: SUBRREAL E IRREAL[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_247+"/",
         thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/NextThumbnail.png?raw=true",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]DIEGO TORRES[/COLOR]",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_248+"/",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/DiegoTorresThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 run()
