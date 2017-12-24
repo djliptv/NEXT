@@ -1930,7 +1930,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]MANA[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_192+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ManaThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1938,7 +1938,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]MANOLO TENA[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_193+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/ManoloTenaThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 		
@@ -1946,7 +1946,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]MARTIN GARRIX (+x)[/COLOR]",
         url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4003+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MartinGarrixThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1954,7 +1954,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]MELENDI[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_194+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/MelendiThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1962,7 +1962,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]SALVATORE GANACCI[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_195+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SalvatoreGanacciThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1970,7 +1970,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]STMPD RCRDS[/COLOR]",
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2009+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/StmpdRcrdsThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 		
@@ -1978,7 +1978,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]SUPERSUBMARINA[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_196+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/SupersubmarinaThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1986,7 +1986,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]VETUSTA MORLA[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_197+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/VetustaMorlaThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -1994,7 +1994,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]BECKY G[/COLOR]",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_37+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/BeckyGThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 		
@@ -2002,7 +2002,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]FAITHLESS[/COLOR]",
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_2008+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/FaithlessThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
@@ -2027,7 +2027,7 @@ def main_list(params):
         #action="", 
         title="[COLOR gold]UMFTV[/COLOR]",
         url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4004+"/",
-        thumbnail="",
+        thumbnail="https://github.com/djliptv/NEXT/blob/master/Pics/UmfTvThumbnail.jpg?raw=true",
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
