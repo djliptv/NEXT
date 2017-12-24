@@ -283,6 +283,7 @@ YOUTUBE_CHANNEL_ID_4001 = "DonDiablo" 	#USER DON DIABLO
 YOUTUBE_CHANNEL_ID_4002 = "festivaldevinachile" 	#USER FESTIVAL VINA DEL MAR CHILE
 YOUTUBE_CHANNEL_ID_4003 = "MartinGarrix" 	#USER MARTIN GARRIX
 YOUTUBE_CHANNEL_ID_4004 = "UMFTV" 	#USER UMFTV
+YOUTUBE_CHANNEL_ID_4005 = "jesseyjoyoficial" 	#USER JESSE Y JOY
 # Entry point
 def run():
     plugintools.log("docu.run")
@@ -2031,6 +2032,14 @@ def main_list(params):
 		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
         folder=True )
 
+    plugintools.add_item( 
+        #action="", 
+        title="[COLOR gold]JESSE Y JOY[/COLOR]",
+        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_4005+"/",
+        thumbnail="",
+		fanart="https://github.com/djliptv/NEXT/blob/master/Pics/NextFanart.jpg?raw=true",
+        folder=True )
+		
     plugintools.add_item( 
         #action="", 
         title="[COLOR gold]NEXT MUSIC VIDEOS POPULARES[/COLOR]",
